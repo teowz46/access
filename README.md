@@ -4,6 +4,8 @@ This repository contains the original implementation of the ACCESS model (**A**u
 
 The version that was used at submission time is on branch [submission](https://github.com/facebookresearch/access/tree/submission).
 
+**IMPORTANT NOTE**: This version is my own personal version where I use my own version of [easse](https://github.com/teowz46/easse), which itself is modified to explicitly state UTF-8 encoding as some machines do not use UTF-8 by default and users may not be able to edit locale settings.  
+
 
 ## Getting Started
 
